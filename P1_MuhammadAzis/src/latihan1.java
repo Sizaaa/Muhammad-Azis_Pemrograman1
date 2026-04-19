@@ -1,4 +1,4 @@
-package P1_MuhammadAzis;
+package P1_MuhammadAzis.src;
 
 public class latihan1 {
     public static void main(String[] args) {

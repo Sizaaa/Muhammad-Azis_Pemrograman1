@@ -1,4 +1,4 @@
-package P2_MuhammadAzis;
+package P2_MuhammadAzis.src;
 
 import java.util.Scanner;
 public class latihan1 {

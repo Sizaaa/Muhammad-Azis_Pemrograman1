@@ -1,4 +1,4 @@
-package P4_MuhammadAzis;
+package P4_MuhammadAzis.src;
 
 import java.util.Scanner;
 
